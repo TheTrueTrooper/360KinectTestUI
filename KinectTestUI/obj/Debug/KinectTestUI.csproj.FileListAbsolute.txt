@@ -1,0 +1,11 @@
+C:\Users\Angelo\Desktop\KinectTestUI\KinectTestUI\bin\Debug\KinectTestUI.exe.config
+C:\Users\Angelo\Desktop\KinectTestUI\KinectTestUI\bin\Debug\KinectTestUI.exe
+C:\Users\Angelo\Desktop\KinectTestUI\KinectTestUI\bin\Debug\KinectTestUI.pdb
+C:\Users\Angelo\Desktop\KinectTestUI\KinectTestUI\bin\Debug\Microsoft.Kinect.dll
+C:\Users\Angelo\Desktop\KinectTestUI\KinectTestUI\bin\Debug\Microsoft.Kinect.xml
+C:\Users\Angelo\Desktop\KinectTestUI\KinectTestUI\obj\Debug\KinectTestUI.csprojResolveAssemblyReference.cache
+C:\Users\Angelo\Desktop\KinectTestUI\KinectTestUI\obj\Debug\KinectTestUI.Form1.resources
+C:\Users\Angelo\Desktop\KinectTestUI\KinectTestUI\obj\Debug\KinectTestUI.Properties.Resources.resources
+C:\Users\Angelo\Desktop\KinectTestUI\KinectTestUI\obj\Debug\KinectTestUI.csproj.GenerateResource.Cache
+C:\Users\Angelo\Desktop\KinectTestUI\KinectTestUI\obj\Debug\KinectTestUI.exe
+C:\Users\Angelo\Desktop\KinectTestUI\KinectTestUI\obj\Debug\KinectTestUI.pdb
