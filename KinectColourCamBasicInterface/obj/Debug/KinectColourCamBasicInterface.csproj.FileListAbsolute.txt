@@ -1,0 +1,6 @@
+C:\Users\Angelo\Desktop\KinectTestUI\KinectColourCamBasicInterface\bin\Debug\KinectColourCamBasicInterface.dll
+C:\Users\Angelo\Desktop\KinectTestUI\KinectColourCamBasicInterface\bin\Debug\KinectColourCamBasicInterface.pdb
+C:\Users\Angelo\Desktop\KinectTestUI\KinectColourCamBasicInterface\bin\Debug\Microsoft.Kinect.dll
+C:\Users\Angelo\Desktop\KinectTestUI\KinectColourCamBasicInterface\bin\Debug\Microsoft.Kinect.xml
+C:\Users\Angelo\Desktop\KinectTestUI\KinectColourCamBasicInterface\obj\Debug\KinectColourCamBasicInterface.dll
+C:\Users\Angelo\Desktop\KinectTestUI\KinectColourCamBasicInterface\obj\Debug\KinectColourCamBasicInterface.pdb

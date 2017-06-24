@@ -9,3 +9,5 @@ C:\Users\Angelo\Desktop\KinectTestUI\KinectTestUI\obj\Debug\KinectTestUI.Propert
 C:\Users\Angelo\Desktop\KinectTestUI\KinectTestUI\obj\Debug\KinectTestUI.csproj.GenerateResource.Cache
 C:\Users\Angelo\Desktop\KinectTestUI\KinectTestUI\obj\Debug\KinectTestUI.exe
 C:\Users\Angelo\Desktop\KinectTestUI\KinectTestUI\obj\Debug\KinectTestUI.pdb
+C:\Users\Angelo\Desktop\KinectTestUI\KinectTestUI\bin\Debug\KinectColourCamBasicInterface.dll
+C:\Users\Angelo\Desktop\KinectTestUI\KinectTestUI\bin\Debug\KinectColourCamBasicInterface.pdb
