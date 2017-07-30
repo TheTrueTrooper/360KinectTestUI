@@ -4,3 +4,4 @@ C:\Users\Angelo\Desktop\KinectTestUI\KinectColourCamBasicInterface\bin\Debug\Mic
 C:\Users\Angelo\Desktop\KinectTestUI\KinectColourCamBasicInterface\bin\Debug\Microsoft.Kinect.xml
 C:\Users\Angelo\Desktop\KinectTestUI\KinectColourCamBasicInterface\obj\Debug\KinectColourCamBasicInterface.dll
 C:\Users\Angelo\Desktop\KinectTestUI\KinectColourCamBasicInterface\obj\Debug\KinectColourCamBasicInterface.pdb
+C:\Users\Angelo\Desktop\KinectTestUI\KinectColourCamBasicInterface\obj\Debug\KinectColourCamBasicInterface.csprojResolveAssemblyReference.cache
